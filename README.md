@@ -50,3 +50,6 @@ TimerJS.start('.is-counter', {
 <!--// TimerJS içerisinde 1 adet hook bulunmakta ve bu hook zaman tükendiğinde çalışmaktadır. -->
 
 ```
+
+
+<script src="https://ismail0234.github.io/timer-date-js/timer-date.js"></script>
