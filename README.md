@@ -2,7 +2,7 @@
 
 Websitelerinde Belirli bir zamanı geriye doğru saymak için kullanılır.
 
-[Demo](https://ismail0234.github.io/timer-date-js/)
+[Demo](https://ismail0234.github.io/timer.date.js/)
 
 ### Kullanım
 
