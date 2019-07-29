@@ -51,5 +51,25 @@ TimerJS.start('.is-counter', {
 
 ```
 
+### Fonksiyonlar
 
-<script src="https://ismail0234.github.io/timer-date-js/timer-date.js"></script>
+```js
+TimerJS.start('selector')
+```
+
+Bu fonksiyon oluşturduğunuz html etiketlerinin zamanlarını geriye doğru saymaya başlamanızı sağlar. Fonksiyon geriye işlem uyguladığı bütün zamanlayıcıların TimerID numalarını bir dizi olarak döner.
+<br><br>
+
+```js
+TimerJS.stop(timerId)
+```
+
+**TimerJS.start** ile dönen timerId numalarını buradan zamanlayıcıyı durdurmak için kullanabilirsiniz.
+<br><br>
+
+```js
+TimerJS.stopAll()
+```
+
+Aktif olan bütün zamanlayıcıları durdurmanızı sağlar.
+<br><br>
