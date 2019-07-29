@@ -83,7 +83,7 @@ Aktif olan bütün zamanlayıcıları durdurmanızı sağlar.
 </script>
 ```
 <center>
-<time class="is-counter" time="15" text="kaldı." finish="Tamamlandı!"></time>
+<time class="is-counter" time="300" text="kaldı." finish="Tamamlandı!"></time>
 </center>
 
 <script type="text/javascript">
