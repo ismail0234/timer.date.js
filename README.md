@@ -13,7 +13,7 @@ Kullanım adımlarını doğru bir şekilde tamamladığınız taktirde herhangi
 Aşağıdaki dosyayı sayfanıza çağırın veya repodan en son versiyonu indirin.
 
 ```html
-<script src="https://ismail0234.github.io/timer-date-js/timer-date.js"></script>
+<script src="https://ismail0234.github.io/timer.date.js/timer-date.js"></script>
 ```
 
 #### Adım 2
@@ -73,10 +73,10 @@ Aktif olan bütün zamanlayıcıları durdurmanızı sağlar.
 
 ### Örnek
 
-<script src="https://ismail0234.github.io/timer-date-js/timer-date.js"></script>
+<script src="https://ismail0234.github.io/timer.date.js/timer-date.js"></script>
 
 ```html
-<time class="is-counter" time="15" text="kaldı." finish="Tamamlandı!"></time>
+<time class="is-counter" time="300" text="kaldı." finish="Tamamlandı!"></time>
 
 <script type="text/javascript">
        TimerJS.start('.is-counter');
